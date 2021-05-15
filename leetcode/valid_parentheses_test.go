@@ -1,7 +1,12 @@
 package leetcode
 
-// func isValid(s string) bool {
-// 	for i := 0; i < len(s); i++ {
+import (
+	"fmt"
+	"testing"
+)
 
-// 	}
-// }
+func TestTesi(t *testing.T) {
+	fmt.Println(0 ^ 2)
+	fmt.Println(0 ^ 1)
+	fmt.Println(0 ^ 1)
+}
